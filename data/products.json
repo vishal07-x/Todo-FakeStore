@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "price": 109.95,
+    "category": "men's clothing",
+    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop, tablet, books and daily essentials in this practical backpack.",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=85",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 2,
+    "title": "Mens Casual Premium Slim Fit T-Shirts",
+    "price": 22.3,
+    "category": "men's clothing",
+    "description": "Slim-fit casual T-shirt designed for everyday comfort. A simple wardrobe essential that works with jeans, shorts or casual trousers.",
+    "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&w=900&q=85",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    }
+  },
+  {
+    "id": 3,
+    "title": "Mens Cotton Jacket",
+    "price": 55.99,
+    "category": "men's clothing",
+    "description": "A versatile cotton jacket for casual outdoor use. Lightweight enough for everyday wear while providing an extra layer when needed.",
+    "image": "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?auto=format&fit=crop&w=900&q=85",
+    "rating": {
+      "rate": 4.7,
+      "count": 500
+    }
+  },
+  {
+    "id": 4,
+    "title": "Mens Casual Slim Fit",
+    "price": 15.99,
+    "category": "men's clothing",
+    "description": "Comfortable casual wear with a modern slim-fit design. Easy to pair with your everyday outfits.",
+    "image": "https://res.cloudinary.com/krutyjfs/image/upload/v1791280668/Polo_Shirts___Stylish_Casual_Slim_Fit_Polo_Shirts_for_Men___Summer_Fashion_Essentials_jgqh49.jpg",
+    "rating": {
+      "rate": 2.1,
+      "count": 430
+    }
+  },
+  {
+    "id": 5,
+    "title": "John Hardy Women's Legends Naga Gold & Silver Bracelet",
+    "price": 695,
+    "category": "jewelery",
+    "description": "A statement bracelet inspired by the Naga legend. Designed with a distinctive gold and silver finish for an elegant look.",
+    "image": "https://images.unsplash.com/photo-1668365179846-3333fe14f552?auto=format&fit=crop&w=900&q=85",
+    "rating": {
+      "rate": 4.6,
+      "count": 400
+    }
+  },
+  {
+    "id": 6,
+    "title": "Solid Gold Petite Micropave",
+    "price": 168,
+    "category": "jewelery",
+    "description": "A delicate petite jewelry piece with a refined micropave design. Ideal for everyday styling or gifting.",
+    "image": "https://images.unsplash.com/photo-1598560917807-1bae44bd2be8?auto=format&fit=crop&w=900&q=85",
+    "rating": {
+      "rate": 3.9,
+      "count": 70
+    }
+  },
+  {
+    "id": 7,
+    "title": "White Gold Plated Princess",
+    "price": 9.99,
+    "category": "jewelery",
+    "description": "A classic white-gold-plated accessory with a clean and elegant princess-inspired design.",
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=900&q=85",
+    "rating": {
+      "rate": 3,
+      "count": 400
+    }
+  },
+  {
+    "id": 8,
+    "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+    "price": 10.99,
+    "category": "jewelery",
+    "description": "A rose-gold-plated stainless steel accessory featuring a playful owl-inspired design.",
+    "image": "https://images.unsplash.com/photo-1617038220319-276d3cfab638?auto=format&fit=crop&w=900&q=85",
+    "rating": {
+      "rate": 1.9,
+      "count": 100
+    }
+  },
+  {
+    "id": 9,
+    "title": "WD 2TB Elements Portable External Hard Drive",
+    "price": 64,
+    "category": "electronics",
+    "description": "Portable external storage designed for backing up photos, videos, documents and other important files.",
+    "image": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=900&q=85",
+    "rating": {
+      "rate": 3.3,
+      "count": 203
+    }
+  },
+  {
+    "id": 10,
+    "title": "SanDisk SSD PLUS 1TB Internal SSD",
+    "price": 109,
+    "category": "electronics",
+    "description": "A 1TB internal SSD for improving storage capacity and everyday computer performance.",
+    "image": "https://res.cloudinary.com/krutyjfs/image/upload/v1791280891/images_1_w0r5fh.jpg",
+    "rating": {
+      "rate": 2.9,
+      "count": 470
+    }
+  },
+  {
+    "id": 11,
+    "title": "Silicon Power 256GB SSD 3D NAND",
+    "price": 109,
+    "category": "electronics",
+    "description": "Compact solid-state storage using 3D NAND technology. Suitable for everyday computers and laptops.",
+    "image": "https://res.cloudinary.com/krutyjfs/image/upload/v1791281121/s-l1600256_mqcrnn.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 319
+    }
+  },
+  {
+    "id": 12,
+    "title": "Acer SB220Q bi 21.5 Inches Full HD Monitor",
+    "price": 599,
+    "category": "electronics",
+    "description": "A compact Full HD monitor suitable for study, office work, coding and everyday entertainment.",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=900&q=85",
+    "rating": {
+      "rate": 2.9,
+      "count": 250
+    }
+  }
+]
